@@ -16,3 +16,7 @@ This project demonstrates the implementation of core data structures (arrays, li
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+## Usage:
+Run scripts for each data structure or algorithm:
+   ```bash
+   python <script_name>.py
