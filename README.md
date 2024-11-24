@@ -19,4 +19,4 @@ This project demonstrates the implementation of core data structures (arrays, li
 ## Usage:
 Run scripts for each data structure or algorithm:
    ```bash
-   python <script_name>.py
+   python openme.py
