@@ -13,3 +13,6 @@ This project demonstrates the implementation of core data structures (arrays, li
 2. Create a virtual environment:
    ```bash
    python -m venv venv
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
